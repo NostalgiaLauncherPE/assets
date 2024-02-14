@@ -1,17 +1,17 @@
 [
     {
-        "versionName": "0.9.5-2",
-        "versionUrl": "https://raw.githubusercontent.com/NostalgiaLauncherPE/assets/main/assets/versions/a0.9.5-2.apk",
-        "alternativeUrl": "https://archive.org/download/MCPEAlpha/PE-a0.9.5-2.apk"
-    },
-    {
         "versionName": "0.8.1",
-        "versionUrl": "https://raw.githubusercontent.com/NostalgiaLauncherPE/assets/main/assets/versions/a0.8.1.apk",
+        "versionUrl": "https://raw.githubusercontent.com/NostalgiaLauncherPE/assets/main/assets/versions/renamed/com.mojang.minecraftpel081.apk",
         "alternativeUrl": "https://archive.org/download/MCPEAlpha/PE-a0.8.1.apk"
     },
     {
         "versionName": "0.7.6",
-        "versionUrl": "https://raw.githubusercontent.com/NostalgiaLauncherPE/assets/main/assets/versions/a0.7.6.apk",
+        "versionUrl": "https://raw.githubusercontent.com/NostalgiaLauncherPE/assets/main/assets/versions/renamed/com.mojang.minecraftpel076.apk",
         "alternativeUrl": "https://archive.org/download/MCPEAlpha/PE-a0.7.6.apk"
+    },
+    {
+        "versionName": "0.6.1",
+        "versionUrl": "https://raw.githubusercontent.com/NostalgiaLauncherPE/assets/main/assets/versions/renamed/com.mojang.minecraftpel061.apk",
+        "alternativeUrl": "https://archive.org/download/MCPEAlpha/PE-a0.6.1.apk"
     }
 ]
